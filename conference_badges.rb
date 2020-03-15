@@ -5,4 +5,4 @@ end
 def batch_badge_creator(speakers)
   badges = []
   speakers.each do |speaker|
-    speaker.push
+    speaker.push{Hello
